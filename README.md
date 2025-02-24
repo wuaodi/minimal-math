@@ -17,5 +17,6 @@ Math for Deep Learning — Andreas Geiger
 windows base 环境
 
 python 3.12.4
+
 torch 2.2.1+cu118
 
