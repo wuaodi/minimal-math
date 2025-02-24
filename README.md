@@ -11,3 +11,11 @@ Math for Deep Learning — Andreas Geiger
 只是深度学习里面用到最小数学知识的概念性介绍
 
 我将用pytorch对其进行实现，方便后面用的时候查看
+
+# 环境
+
+windows base 环境
+
+python 3.12.4
+torch 2.2.1+cu118
+
